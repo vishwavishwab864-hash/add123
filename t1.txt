@@ -1,0 +1,24 @@
+<html>
+<head><title>periodic table</title></head>
+<body>
+<table border="2">
+<tr><th colspan="2">I IT <br> [GF 04]</th><th colspan="7"> Class Adviser1
+ 1: Dr.R.Malathy
+ /AP/English<br>Class Adviser 2:Drr.B.Vennilla/ASP
+ /Maths</th><th colspan = "2">w.e.f<br>1.9.2025</tr>
+ <tr><th rowspan="2">Day Order</th><th>1</th><th>2</th><th rowspan="2">10.20am <br> to<br> 10.35am</th><th>3</th><th>4</th><th rowspan="2">12.15 pm<br>to<br>01.05 pm </th></th><th rowspan="2">01.05pm to<br>01.25am</th><th>5</th><th>6</th><th>7
+ </th></th></tr></tr>
+ <tr><th>08.40am<br> to<br>09.30am</th><th>09.30am<br>to <br>10.20am</th><th>10.35am<br>to<br>11.25am</th><th>11.25am<br>to<br>12.15pm</th><th>01.25pm<br>to<br>02.20pm</th><th>02.20pm<br>to<br>03.15pm</th><th>03.15pm <br>to<br>04.10pm</th></tr>
+ <tr><td>Monday</td><td>PIS</td><td>CLA</td><td rowspan="6">k<br>a<br>e<br>r<br>B<br>    a<br>e<br>T</td><td colspan="2">SS</td><td rowspan="6"> k<br>a<br>e<br>r<br>B<br>     h<br>c<br>n<br>u<br>L</td><td rowspan="6">y<br>t<br>i<br>v<br>i<br>t<br>c<br>A<br> s<br>n<br>i<br>M<br>15</td><td>TE</td><td>CLA</td><td>PT</td></tr>
+ 
+ 
+ <tr><td>Tuesday</td><td>PSC</td><td>ADD</td><td colspan="2">EP LAB</td><td>CLA</td><td>PIS</td><td>TE</td></tr>
+ <tr><td>Wednesday</td><td colspan="2">AAD LAB</td><td>TE</td><td>PSC</td><td colspan="3">PSC LAB</td></tr>
+ <tr><td>Thursday</td><td colspan="2">TE LAB</td><td>AAD</td><td>AAD</td><td colspan="2">PIS LAB /TWN/LIB</td><td>CLA</td></tr>
+ <tr><td>Friday</td><td>CLA</td><td>TE</td><td>PSC</td><td>PIs</td><td colspan="3">PSC LAB</td></tr>
+ <tr><td>Saturday</td><td>PSC</td><td>CLA (T)</td><td>ADD</td><td>PIS</td><td colspan="3">COE</td></td></tr>
+</table>
+
+
+</body>
+</html>
